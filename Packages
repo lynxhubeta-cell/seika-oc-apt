@@ -1,13 +1,13 @@
 Package: seika-oc
-Version: 0.4.0
+Version: 0.4.1
 Architecture: all
 Maintainer: seikaoc <seikaoc@users.noreply.github.com>
 Installed-Size: 22
 Depends: python, curl
-Filename: seika-oc_0.4.0_all.deb
-Size: 7480
-MD5sum: b0188e8e010832cf88f325ed046bb07d
-SHA256: 3b3a59c98bdcd71d3a4d28a0d9b805b6a36019d6bfd13bd73a0c3ccbdda22001
+Filename: seika-oc_0.4.1_all.deb
+Size: 7536
+MD5sum: d8f09c44122db17bf0c0a44ba13368ef
+SHA256: a4bbb97eb81b9c90f6c7c280affa42331d56a209c0eb6c877da6acaeb2e371b8
 Description: One-command OpenCode installer/updater for Termux
  Clean animated installer UI, smart version checks, session
  backup/restore and automatic repair for OpenCode.

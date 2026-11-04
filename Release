@@ -5,10 +5,10 @@ Codename: stable
 Architectures: all aarch64 arm i686 x86_64
 Components:
 Description: seika-oc APT repository (Termux)
-Date: Wed, 04 Nov 2026 20:14:55 UTC
+Date: Wed, 04 Nov 2026 20:16:17 UTC
 MD5Sum:
- c524e9da372a27138f2df6f01deebefe 479 Packages
- d2fa4a4cd10b5096ff8a8cf39c656760 357 Packages.gz
+ 56ad915e63776903b82a7ada881f861f 479 Packages
+ f5c08c9aec99d6cd10adb8c47e9d6a78 358 Packages.gz
 SHA256:
- ba719301820c0d7d31a802c9f19032ce00d7d0f43d3208abfb02bc26a4fc1f57 479 Packages
- a8f89b58cc0294722f763799a6a72b8f3bb76772aa78cecd2718bc3293a5d570 357 Packages.gz
+ dfc6dbf379359edb9b8c1a477784cde6c2a894cc4f179422a36bec4876d6570e 479 Packages
+ 9bec64308ad48786edbc28b4533d5acc94efc2f3d07813d567de07b206b5ff4e 358 Packages.gz
