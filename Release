@@ -1,0 +1,14 @@
+Origin: seika-oc
+Label: seika-oc
+Suite: stable
+Codename: stable
+Architectures: all aarch64 arm i686 x86_64
+Components:
+Description: seika-oc APT repository (Termux)
+Date: Wed, 04 Nov 2026 20:14:55 UTC
+MD5Sum:
+ c524e9da372a27138f2df6f01deebefe 479 Packages
+ d2fa4a4cd10b5096ff8a8cf39c656760 357 Packages.gz
+SHA256:
+ ba719301820c0d7d31a802c9f19032ce00d7d0f43d3208abfb02bc26a4fc1f57 479 Packages
+ a8f89b58cc0294722f763799a6a72b8f3bb76772aa78cecd2718bc3293a5d570 357 Packages.gz
